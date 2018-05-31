@@ -1,0 +1,3 @@
+1) Complete "Let Us C".
+  -> Create a seperate directory for each chapter and cover all the programs from the book.
+  -> Make sure that program can be compiled and executed without any Errors or wornings.
