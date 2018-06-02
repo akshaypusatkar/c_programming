@@ -1,3 +1,12 @@
+/*Ramesh's Basic salary is input through the keyboard.
+His dearness allowance is 40% of basic salary & house rent allowance is 20% of basic salary.
+WAP to calculate his gross salary*/
+
+
+
+
+
+
 #include<stdio.h>
 
 int main()
