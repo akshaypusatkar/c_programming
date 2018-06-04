@@ -1,3 +1,7 @@
+/*The distance between two cities(in Km.) is input through the keyboard. 
+WAP to convert and print this distance in meters,feet,inches & centimeters.*/
+
+
 #include<stdio.h>
 int main()
 { 
