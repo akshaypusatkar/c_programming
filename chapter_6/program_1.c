@@ -1,5 +1,5 @@
 /* Write a function that receives 5 integers and returns the sum, average and standard deviation of these numbers. Call this function from main() and print results in main(). */
-
+/*Strategy==> Usage of Call By Value. */
 #include<stdio.h>
 #include<math.h>
 float avrg(int);
