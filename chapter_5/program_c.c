@@ -1,4 +1,4 @@
-/* Write a menu driven program which has following options:
+/* Write a menu driven program which has following options:-
 1.Factorial of number
 2. Prime or not 
 3. Odd or even 
